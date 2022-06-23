@@ -1,3 +1,5 @@
+# *NOTE* I have probably stopped working on this because its too difficult for me.
+
 # TI-84-plus-CE-DOOM
 Doom for the TI-84 plus CE (Or atleast a Doom/Duke Nukem 3D engine)
 
